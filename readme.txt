@@ -4,4 +4,8 @@ third
 forth
 fifth...
 creating a new branch is quick
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick 
+=======
+creating a new branch 'featurel'
+>>>>>>> featurel
